@@ -8,6 +8,22 @@
   font-size: 10px;
 }
 
+@media all and (max-width:1440px){
+  :root{
+    font-size: 8px;
+  }
+}
+@media all and (max-width:1240px){
+  :root{
+    font-size: 6px;
+  }
+}
+@media all and (max-width:1024px){
+  :root{
+    font-size: 5px;
+  }
+}
+
 body {
   width: 100%;
   height: 100vh;
